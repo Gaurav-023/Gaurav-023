@@ -93,17 +93,7 @@
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Gaurav-023/Gaurav-023/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 

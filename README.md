@@ -68,16 +68,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gaurav-023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-023&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gaurav-023&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-023&layout=compact&theme=default&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-023&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-023&theme=default&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-023&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-023&theme=flat&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-023&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-023&theme=minimal&hide_border=true" width="100%"/>
 </div>
 
 <br/>

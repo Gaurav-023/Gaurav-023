@@ -65,34 +65,45 @@
 
 <br/>
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gaurav-023&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-023&layout=compact&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-023&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-023&theme=flat&no-frame=true&row=1&column=6"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurav-023&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurav-023&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav-023/Gaurav-023/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<img width="75%" height="80%" src="https://streak-stats.demolab.com?user=Gaurav-023&theme=transparent&hide_border=true"/>
+
 </div>
 
+---
+
+
+---
+
+# 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-023&theme=minimal&hide_border=true" width="100%"/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-023&theme=github-compact&hide_border=true"/>
+
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Gaurav-023/Gaurav-023/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 

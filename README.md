@@ -18,7 +18,7 @@
 - 💻 Full-Stack Developer skilled in **React.js, Next.js, Node.js, Express.js, MongoDB, and Flutter**
 - 🏢 6 months of professional experience building production SaaS platforms and mobile apps at **Macro Global Immigration**
 - 🤖 Built and shipped AI-integrated full-stack applications from scratch (AI Counselor, AI Interview Prep)
-- 🎯 Long-term goal: transition into **AI/ML Engineering**
+- 🎯 Long-term goal: Be Good in this Field
 - 📍 Based in Moga, Punjab, India
 
 <br/>

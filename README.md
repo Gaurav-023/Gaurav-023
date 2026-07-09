@@ -74,16 +74,6 @@
 
 <br/>
 
-<div align="center">
-
-<img width="75%" height="80%" src="https://streak-stats.demolab.com?user=Gaurav-023&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-
----
 
 # 📈 Contribution Activity
 
